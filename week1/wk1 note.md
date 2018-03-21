@@ -1,5 +1,7 @@
 Definition:improving some performance measure with experience computed from data
 
+![PPT1](https://github.com/SicongLiang/Machine-Learning-Foundations---Mathematical-Foundations/blob/master/week1/3.JPG)
+
 PS：KDDCup数据挖掘比赛
 
 Application in Entertainment:Recommender System 
