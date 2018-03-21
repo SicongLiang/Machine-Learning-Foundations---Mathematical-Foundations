@@ -25,28 +25,29 @@ BASIC Notations:
 
 Practical Definition of Machine Learning: use data to compute hypothesis g that approximates target f
 
-relative fields:
+ relative fields:
+     
     -Data Mining:use (huge) data to find property that is interesting
-      •if ‘interesting property’ same as ‘hypothesis that approximate target’  
-        — ML = DM (usually what KDDCup does)
-      •if ‘interesting property’ related to ‘hypothesis that approximate target’
-        — DM can help ML, and vice versa (often, but not always)
-      traditional DM also focuses on efficient computation in large database
- ☆ difficult to distinguish ML and DM in reality 
+       •if ‘interesting property’ same as ‘hypothesis that approximate target’  
+         — ML = DM (usually what KDDCup does)
+       •if ‘interesting property’ related to ‘hypothesis that approximate target’
+         — DM can help ML, and vice versa (often, but not always)
+       traditional DM also focuses on efficient computation in large database
+    ☆ difficult to distinguish ML and DM in reality 
 
-   -Artificial Interlligence:compute something that shows intelligent behavior
-     •g ≈ f is something that shows intelligent behavior
-       — ML can realize AI, among other routes
-     •e.g. chess playing
-       traditional AI: game tree
-       ML for AI: ‘learning from board data’
-☆ ML is one possible route to realize AI
+    -Artificial Interlligence:compute something that shows intelligent behavior
+       •g ≈ f is something that shows intelligent behavior
+        — ML can realize AI, among other routes
+       •e.g. chess playing
+        traditional AI: game tree
+        ML for AI: ‘learning from board data’
+     ☆ ML is one possible route to realize AI
 
-   -Statistics:use data to make inference about an unknown process
-     •g is an inference outcome;f is something unknown
-       — statistics can be used to achieve ML
-     •traditional statistics also focus on provable results with math assumptions, and care less about computation
-☆ statistics: many useful tools for ML
+    -Statistics:use data to make inference about an unknown process
+      •g is an inference outcome;f is something unknown
+        — statistics can be used to achieve ML
+      •traditional statistics also focus on provable results with math assumptions, and care less about computation
+    ☆ statistics: many useful tools for ML
 
 Summary
 
